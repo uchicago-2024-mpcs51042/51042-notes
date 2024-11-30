@@ -1,0 +1,542 @@
+person_id,name,current_party
+ocd-person/cf441c62-91b4-52f5-b9c7-04a45290e5e4,A. Drew Ferguson IV,Republican
+ocd-person/a5212de0-6253-5b67-8473-2b00d1f22da6,Aaron Bean,Republican
+ocd-person/d1b6eea9-e526-593d-b87a-0e926c3f2303,Abigail Davis Spanberger,Democratic
+ocd-person/c5a3238c-f36a-5b17-af62-ca6dcce0b91d,Adam B. Schiff,Democratic
+ocd-person/55a28978-7661-5a33-a2be-a505a07e2a8e,Adam Smith,Democratic
+ocd-person/39f36070-b860-5345-a3cc-ea7fdbf7dfb3,Adrian Smith,Republican
+ocd-person/0d73f18d-36c1-526d-9d5c-5a0a63ff60af,Adriano Espaillat,Democratic
+ocd-person/2ad84a53-f957-5a9c-861b-413aac608201,Al Green,Democratic
+ocd-person/fadd82ac-5031-5efd-ae39-1afc3f3cd6fb,Alex Padilla,Democratic
+ocd-person/1b959af6-5bbc-5e3b-855f-9a140244c31c,Alexander X. Mooney,Republican
+ocd-person/d2a8d710-a781-5a40-b6f2-e46bffcf40d2,Alexandria Ocasio-Cortez,Democratic
+ocd-person/76bfaf2b-8259-5f56-bce9-d1c8cd6c780d,Alma S. Adams,Democratic
+ocd-person/79c4f42e-4775-5ed0-a7e1-d0c942ce6c34,Ami Bera,Democratic
+ocd-person/2722e0b1-650d-5f77-a348-f7f0d66aa3e2,Amy Klobuchar,Democratic
+ocd-person/ef4b4ed3-1808-548d-8625-2cea913c2e4a,André Carson,Democratic
+ocd-person/54f931b7-9a94-5c93-8585-0967370ffb86,Andrea Salinas,Democratic
+ocd-person/5916e23e-c486-5d60-88c8-56bb65c23763,Andrew Ogles,Republican
+ocd-person/4ec1dbc4-ea21-5f61-92b1-fa55b47a4c61,Andrew R. Garbarino,Republican
+ocd-person/0dbe5471-29ea-5c84-8270-f55fee08d118,Andrew S. Clyde,Republican
+ocd-person/fe2fa2c7-83de-5bf2-b602-6ca9f7fc8a6f,Andy Barr,Republican
+ocd-person/86b4b077-b73b-579b-bb73-bc5a4a73719a,Andy Biggs,Republican
+ocd-person/74a68d2f-f563-50d8-80a7-408346b8ba14,Andy Harris,Republican
+ocd-person/62227c11-1ad4-5395-b233-f1f526efc5b4,Andy Kim,Democratic
+ocd-person/6b47c0e2-77d5-5126-b7a5-82bea8fb9c67,Angie Craig,Democratic
+ocd-person/273dd641-da15-5fc0-bdc9-496cc9b65fbd,"Angus S. King, Jr.",Independent
+ocd-person/7ed34023-b42f-57bc-af69-b36a680122f2,Ann M. Kuster,Democratic
+ocd-person/12958b9f-2301-5bdb-bf13-81b3de147574,Ann Wagner,Republican
+ocd-person/047b7a92-9713-54e5-8429-bcd2214908c7,Anna G. Eshoo,Democratic
+ocd-person/d18ec0cb-328b-54c8-8785-5f924799f5fe,Anna Paulina Luna,Republican
+ocd-person/e024e123-9750-5f4e-bc3d-6d892218868d,Anthony D’Esposito,Republican
+ocd-person/50705d33-6967-5424-8f57-7df22ecbc6e6,Ashley Hinson,Republican
+ocd-person/2519c079-f97e-532b-b53e-167398fd7398,August Pfluger,Republican
+ocd-person/eb3fa86b-690c-5cc0-8f5e-54af60f28a06,Aumua Amata Coleman Radewagen,Republican
+ocd-person/20c33933-79f5-58d1-834c-60779932257e,Austin Scott,Republican
+ocd-person/ab80da0d-902f-5d28-b765-1885853182bd,Ayanna Pressley,Democratic
+ocd-person/3cbc3ca2-4447-50e2-abed-ba3fe86569d8,Barbara Lee,Democratic
+ocd-person/13e07344-3cec-5f29-a27b-2dd6979dbeb5,Barry Loudermilk,Republican
+ocd-person/b242258c-669a-53a7-be30-5f529f03398e,Barry Moore,Republican
+ocd-person/510c6c69-df0f-5b09-b4c7-066256ace832,Becca Balint,Democratic
+ocd-person/bb0d60f6-19a4-5229-a67d-a1d428e7c0b2,Ben Cline,Republican
+ocd-person/5f5817b7-43b0-5bb3-93de-0f838a801635,Ben Ray Luján,Democratic
+ocd-person/18b53a95-c658-5a23-8c3e-074a7e0d27e3,Benjamin L. Cardin,Democratic
+ocd-person/c171d352-db84-5c96-8260-1fcd7eab2575,Bennie G. Thompson,Democratic
+ocd-person/a1ec37b6-9f54-529a-8165-ff96e9d8d93e,Bernard Sanders,Independent
+ocd-person/861bd195-d8aa-5e72-9699-4f5ad3d5e499,Beth Van Duyne,Republican
+ocd-person/61c4224a-c1d6-5739-bca6-0db7e58d84bd,Betty McCollum,Democratic
+ocd-person/851546e4-4af0-5505-8a1c-4f2a83813589,Bill Cassidy,Republican
+ocd-person/a512ad2f-4554-5b04-a00b-1de672f9099a,Bill Foster,Democratic
+ocd-person/fb408324-49e1-56ad-8425-65c2a1e88103,Bill Hagerty,Republican
+ocd-person/ce06af2e-4591-560d-8f14-8f1817c9ad1f,Bill Huizenga,Republican
+ocd-person/bff03292-2b2c-55fc-aa20-83dce2fccd77,"Bill Pascrell, Jr.",Democratic
+ocd-person/40abdb56-d1b4-54a3-bc53-b586f8c06ac3,Bill Posey,Republican
+ocd-person/686325e7-8dc3-587d-9ee1-e0ad14202350,Blaine Luetkemeyer,Republican
+ocd-person/3854aa11-1cec-58f6-8e90-c721a0db3525,Blake D. Moore,Republican
+ocd-person/e53e5a13-c82a-5208-96d0-f6769c0d8a67,Bob Good,Republican
+ocd-person/ff55ab02-9d61-544c-8f4d-710a09d8f5db,Bonnie Watson Coleman,Democratic
+ocd-person/bc26b71a-566f-57fd-9d5b-23bc27e4c4a4,Brad Finstad,Republican
+ocd-person/717ac307-3248-5726-bdcf-de58d683943f,Brad R. Wenstrup,Republican
+ocd-person/4015098b-d823-5776-9b47-ceb09bf523a9,Brad Sherman,Democratic
+ocd-person/a3c68bbd-f241-52c8-a7e9-7f340f316b7a,Bradley Scott Schneider,Democratic
+ocd-person/4b5ef955-4806-51d0-83f3-177000f67b3c,Brandon Williams,Republican
+ocd-person/d1509871-89c0-5f39-bc3d-b55e444e3909,Brendan F. Boyle,Democratic
+ocd-person/a7ba76d3-828f-52bd-9b30-cdbacf0af2b8,Brett Guthrie,Republican
+ocd-person/e1f14f02-810c-52c5-8ad5-b2744b95a069,Brian Babin,Republican
+ocd-person/e7b50abf-92e8-56f1-a5f7-7db9a63fb43f,Brian J. Mast,Republican
+ocd-person/a6a4c673-58ba-587b-b36b-7a559c379f23,Brian K. Fitzpatrick,Republican
+ocd-person/bd24fe60-5756-5d23-bcbf-4734f366c257,Brian Schatz,Democratic
+ocd-person/4f00239f-feef-59fa-87de-5a62e277bb5f,Brittany Pettersen,Democratic
+ocd-person/c46204bc-8484-585e-91de-6053bd3c3cbc,Bruce Westerman,Republican
+ocd-person/3203c6f1-12ea-59aa-aeb4-9faa94e04f17,Bryan Steil,Republican
+ocd-person/f5c47b2f-8eb9-51f9-b403-d41b5bdcd229,Burgess Owens,Republican
+ocd-person/c281df65-bcd6-5f42-860c-874e38bcd03a,Byron Donalds,Republican
+ocd-person/6badec3f-9e2b-5f2c-8683-dd8a7ae87d9f,C. A. Dutch Ruppersberger,Democratic
+ocd-person/9db37a87-2ba9-56a0-9b42-89697222e044,Carlos A. Gimenez,Republican
+ocd-person/1ad151d2-5d26-5421-9b6f-a87d4a05396f,Carol D. Miller,Republican
+ocd-person/00bdfb60-1b6f-5a4a-9157-b7cafc399c46,Catherine Cortez Masto,Democratic
+ocd-person/b420935f-8662-5012-ab5a-befcdc9e39f2,Cathy McMorris Rodgers,Republican
+ocd-person/d242dd37-9f71-5412-9328-798305153967,Celeste Maloy,Republican
+ocd-person/ced62f94-88a6-5a4b-b470-89cf1ee4bdac,Charles E. Schumer,Democratic
+ocd-person/640abb7e-8890-59bc-b5cb-b21c88288657,"Charles J. ""Chuck"" Fleischmann",Republican
+ocd-person/78a440e5-f314-5f5b-930b-48ab822bb39a,Chellie Pingree,Democratic
+ocd-person/2398f81d-6371-544d-a7ff-24cf993a716b,Chip Roy,Republican
+ocd-person/22a8725b-acc8-530a-9a57-6b0a7f750fca,Chris Pappas,Democratic
+ocd-person/6b768c01-2e7d-5316-9ece-d5e215648f85,Chris Van Hollen,Democratic
+ocd-person/04b67b59-b46f-5db7-96e3-a78591cf0734,Chrissy Houlahan,Democratic
+ocd-person/792faee4-b972-54ed-b42d-47b41a22ccb3,Christopher A. Coons,Democratic
+ocd-person/84a22f15-cf83-5f0b-a048-a6fc50aa60fe,Christopher H. Smith,Republican
+ocd-person/ef439b89-0461-56c7-aec5-93b6369e18a7,Christopher Murphy,Democratic
+ocd-person/06299567-cfd4-5679-ad04-893e9f980275,Christopher R. Deluzio,Democratic
+ocd-person/1b8394c7-93d4-5a22-91cf-264782834b9b,Chuck Edwards,Republican
+ocd-person/259d896b-e9b5-5237-9243-f5597ae0db7c,Chuck Grassley,Republican
+ocd-person/3827ab20-4901-56bc-a6ea-e7c275da9eb9,Cindy Hyde-Smith,Republican
+ocd-person/21f20fe0-1075-512d-99a6-cafcebf57d20,Claudia Tenney,Republican
+ocd-person/ffc5bfa2-67c8-5743-afa6-3250b0752485,Clay Higgins,Republican
+ocd-person/dd9d3668-b18a-5102-8628-7f2972350402,Cliff Bentz,Republican
+ocd-person/45574c8a-7f88-525b-b5b8-255a8d69f335,Colin Z. Allred,Democratic
+ocd-person/adba4aa8-0d6a-5a7f-9a71-d1a9f9c5e1a0,Cori Bush,Democratic
+ocd-person/d0bb2662-40b6-52d2-94e6-2bf9d588c954,Cory A. Booker,Democratic
+ocd-person/e9c6e580-58c8-5a0c-a18c-d11c073a9964,Cory Mills,Republican
+ocd-person/b6ae1e91-803f-5ce8-98fe-86f85c52dd42,Cynthia M. Lummis,Republican
+ocd-person/e54a4532-aa1e-5e2d-b630-4f35ef10a46f,Dale W. Strong,Republican
+ocd-person/ff2f62f3-ccac-57d0-bcad-47a3bfeacb79,Dan Bishop,Republican
+ocd-person/6e2bcde3-a1f5-5296-9f9f-88c71885f3db,Dan Crenshaw,Republican
+ocd-person/c2de8671-10f6-5eb3-8624-a9fd877464b5,Dan Newhouse,Republican
+ocd-person/a6b5e853-563f-5b87-a14a-a1427f56b262,Dan Sullivan,Republican
+ocd-person/df0edff1-f76c-5916-b28e-f70338b23a7a,Daniel Meuser,Republican
+ocd-person/4c77555b-f35d-53ca-8c7d-7950b90a1b60,Daniel S. Goldman,Democratic
+ocd-person/ba55e5b8-ac4e-5ea8-b7a8-d180e10a3562,Daniel T. Kildee,Democratic
+ocd-person/04db1dc5-1903-5913-a439-fed236ff85a3,Daniel Webster,Republican
+ocd-person/a494987e-6674-5df8-a8b2-de4b5a99de86,Danny K. Davis,Democratic
+ocd-person/a7bc3999-648e-58ed-b606-f387e825427c,Darin LaHood,Republican
+ocd-person/15e5e4c2-568f-55b4-9aa2-54797027c984,Darrell Issa,Republican
+ocd-person/ef44884b-f8bf-542b-b1ae-f36c7cf8e962,Darren Soto,Democratic
+ocd-person/cf552a34-e9e1-5de9-9270-b5b441dd89fe,David G. Valadao,Republican
+ocd-person/e23c900b-5d24-55cb-a1d1-73ac69e597ef,David J. Trone,Democratic
+ocd-person/5beaa710-fc70-563c-9842-f885e13d9aea,David Kustoff,Republican
+ocd-person/b7ff0450-1acd-5127-b3f5-7246374119a9,David P. Joyce,Republican
+ocd-person/5e9726e3-2aae-5708-9227-0e95ac43c203,David Rouzer,Republican
+ocd-person/100d00e0-275c-5bd0-960e-c24c3b50a8e5,David Schweikert,Republican
+ocd-person/e6650822-1063-5485-b062-d169ea173ec2,David Scott,Democratic
+ocd-person/501837d6-d9cc-5b1e-a2e3-e53f047192a5,Dean Phillips,Democratic
+ocd-person/1e87267c-1e9f-5e46-a266-b1d557a8571b,Deb Fischer,Republican
+ocd-person/b48d0289-7d22-5bb4-bd17-b351aa3ec4a2,Debbie Dingell,Democratic
+ocd-person/ce00d736-9c65-52f1-9cdf-aff115c2b7b4,Debbie Lesko,Republican
+ocd-person/a18130ac-79f6-54ad-a80d-14b143f0742f,Debbie Stabenow,Democratic
+ocd-person/7bacff4a-1d4a-5c4f-a59c-311206c181d2,Debbie Wasserman Schultz,Democratic
+ocd-person/ea21df34-9ef4-5746-b83a-700bdc2d1918,Deborah K. Ross,Democratic
+ocd-person/34d76857-187b-5f62-a2d1-ddfcd13494cf,Delia C. Ramirez,Democratic
+ocd-person/0a7f80ad-caf7-5d0b-b50b-441764153649,Derek Kilmer,Democratic
+ocd-person/b96b406a-d60a-57fe-96d1-c1dd5b189ab1,Derrick Van Orden,Republican
+ocd-person/241df76f-7089-5821-ab7f-bb54d92ee9d7,Diana DeGette,Democratic
+ocd-person/b090c59e-4d88-5d35-99ba-ec3798f88978,Diana Harshbarger,Republican
+ocd-person/51152aac-2c93-5445-99ed-026df5b6ad37,Dina Titus,Democratic
+ocd-person/d409840c-63c1-53e4-9ff6-e5677cef9fe6,Don Bacon,Republican
+ocd-person/33867761-33c6-5036-b3da-43fb485b65c9,Donald G. Davis,Democratic
+ocd-person/fa65b2cc-a6a5-56fa-8c78-5bc2ecdd93e6,"Donald M. Payne, Jr.",Democratic
+ocd-person/b0e4bf70-7945-5f39-bb1b-f993a59367b4,Donald Norcross,Democratic
+ocd-person/63d110f3-ccdb-5783-9d6a-4a7103f30c01,"Donald S. Beyer, Jr.",Democratic
+ocd-person/5262c34c-a015-5290-9ca4-3b6ec86f4b1d,Doris O. Matsui,Democratic
+ocd-person/4e34a7cb-7c10-5e5d-8086-a33ef00207bd,Doug LaMalfa,Republican
+ocd-person/c4154717-8bdf-5a5e-ac05-24c35f195a78,Doug Lamborn,Republican
+ocd-person/1bc146c5-42d6-5bf7-a862-34747a4b8ed7,Dusty Johnson,Republican
+ocd-person/c9d5abc5-4c4a-5ff5-a132-8885eb020e6e,Dwight Evans,Democratic
+ocd-person/acd197d4-7996-5b4c-b01d-a61702d99385,Earl Blumenauer,Democratic
+ocd-person/85e43f57-4901-52fd-9fad-57373277f5e1,"Earl L. ""Buddy"" Carter",Republican
+ocd-person/20f1a4db-1281-5e3f-9d6d-657a3f178b3f,Ed Case,Democratic
+ocd-person/bceb5ccd-31b0-5d03-894d-03cf2cbb2771,Edward J. Markey,Democratic
+ocd-person/709b6b03-c38f-540b-85f2-83c16f62d3bd,Eleanor Holmes Norton,Democratic
+ocd-person/e59ccc1e-b5f0-5b86-9b5b-a8fbf6038665,Elijah Crane,Republican
+ocd-person/febd3b9d-501f-5191-aaff-87666a5af603,Elise M. Stefanik,Republican
+ocd-person/e7ebade8-8c17-50e0-ac00-70e0327b9071,Elissa Slotkin,Democratic
+ocd-person/3de20aaf-f982-5aa3-8280-c5154be829aa,Elizabeth Warren,Democratic
+ocd-person/8ea538b9-6af5-5683-8b4b-9061f89691c1,Emanuel Cleaver,Democratic
+ocd-person/93c5c8f8-8311-547d-9465-9e7fdc557769,Emilia Strong Sykes,Democratic
+ocd-person/9a89c225-65e9-5680-a780-9802c17cb7c4,"Eric A. ""Rick"" Crawford",Republican
+ocd-person/6a54b336-ad96-5ceb-a963-50fe0f56c288,Eric Burlison,Republican
+ocd-person/999df51b-9318-55b9-b0f6-d738ffc1d62d,Eric Schmitt,Republican
+ocd-person/42d739b0-f570-5d50-b549-eeaa2c7507ee,Eric Sorensen,Democratic
+ocd-person/032302ae-d513-5e31-bafc-8bc3cbb18d7c,Eric Swalwell,Democratic
+ocd-person/c5e2bb91-8e10-5b4c-a442-bf5edb05bd45,Erin Houchin,Republican
+ocd-person/90a2bdbf-1b51-5e72-aef9-5a98c305f31d,Frank D. Lucas,Republican
+ocd-person/c6c1c65f-7735-5ebb-951c-56d6cacc8ebb,Frank J. Mrvan,Democratic
+ocd-person/dfcc16d4-7116-5a16-bf7f-81c6f10d8276,"Frank Pallone, Jr.",Democratic
+ocd-person/bd701bdc-2944-5bb8-b4bf-e2914e6e1241,Frederica S. Wilson,Democratic
+ocd-person/c0f06e59-7d28-535f-8efe-5f49f273763d,Gabe Amo,Democratic
+ocd-person/e643b29f-840b-51ac-aba1-62c85eb9e36c,Gabe Vasquez,Democratic
+ocd-person/6b0fb307-b985-56d0-83d3-c17a01e9b98e,Garret Graves,Republican
+ocd-person/edbfabfd-d26b-5d22-9a5d-f079181608f8,Gary C. Peters,Democratic
+ocd-person/1add3f9c-2946-50ed-92e9-fa54a98fe985,Gary J. Palmer,Republican
+ocd-person/ef3e7d6c-ac3c-58d2-9404-0b164aea0477,George S. Helmy,Democratic
+ocd-person/716b011f-3673-558d-b35f-d5a454cafa81,Gerald E. Connolly,Democratic
+ocd-person/57016d46-c931-5a93-aeb5-1ffec71fb87e,Glenn Grothman,Republican
+ocd-person/3e53830a-108c-5864-92f1-9f9c8f7b1d0f,Glenn Ivey,Democratic
+ocd-person/2faf9e06-f667-5b60-830f-2161dae9c77a,Glenn Thompson,Republican
+ocd-person/228dc55f-1b76-5458-b344-4df46c4e632a,Grace F. Napolitano,Democratic
+ocd-person/ae123357-c70e-5d29-b16f-2d17775ab0f6,Grace Meng,Democratic
+ocd-person/3b0de391-3f75-564b-9b1c-c793300ff1a9,Greg Casar,Democratic
+ocd-person/63dfcb23-8196-5bd6-a5cc-b6592d99150e,Greg Landsman,Democratic
+ocd-person/b513aafd-8615-53db-910f-b0d3e4c0dec6,Greg Lopez,Republican
+ocd-person/4c0bab34-0485-54c6-8b00-15042f52fd87,Greg Pence,Republican
+ocd-person/3300ee9c-6602-5be9-9bb5-2fb7f65a8d5c,Greg Stanton,Democratic
+ocd-person/3f4f5bab-eae1-594a-a93f-53c463b03d5b,Gregorio Kilili Camacho Sablan,Democratic
+ocd-person/b66a5d85-c9cd-5689-a482-d175230ab86d,Gregory F. Murphy,Republican
+ocd-person/372b42da-f525-5938-9a01-e21378fe287c,Gregory W. Meeks,Democratic
+ocd-person/cd29931a-8dab-5ad7-8d4e-f0066cce7d4c,Gus M. Bilirakis,Republican
+ocd-person/58bfb394-46c1-51e6-9f85-c3f091ddada7,Guy Reschenthaler,Republican
+ocd-person/0223a517-1c97-5425-8bca-2120c45ce2e5,Gwen Moore,Democratic
+ocd-person/562f0794-c1fb-50ee-b69c-3a01b25cfc3a,H. Morgan Griffith,Republican
+ocd-person/f06d8480-e875-5184-8316-4140a912a03d,Hakeem S. Jeffries,Democratic
+ocd-person/62d84fce-0ff4-53df-b7a8-4c02d1dc8654,Haley M. Stevens,Democratic
+ocd-person/8b8caa4b-52c1-54aa-bb51-bd0bccdc69b9,Harold Rogers,Republican
+ocd-person/17005404-0e78-5bcc-8a71-d67af0e033fd,Harriet M. Hageman,Republican
+ocd-person/51b7316e-0885-571b-8a2e-daf54dd906bb,"Henry C. ""Hank"" Johnson, Jr.",Democratic
+ocd-person/f67869ed-f124-54ce-b870-600ae4ff20e8,Henry Cuellar,Democratic
+ocd-person/55404260-10e4-59e0-b228-2a01a21fb952,Hillary J. Scholten,Democratic
+ocd-person/dc1ded48-08a5-5981-be73-53bbbe668782,Ilhan Omar,Democratic
+ocd-person/73ff0305-598d-5558-9b5e-6834be8a503a,J. French Hill,Republican
+ocd-person/86b65fd7-4549-51fa-80e8-eaf3daf3e60e,J. Luis Correa,Democratic
+ocd-person/5a8792bc-1520-56aa-ab19-729008cd559b,J.D. Vance,Republican
+ocd-person/5f3b131a-0f64-5d55-875a-2861e5347727,Jack Bergman,Republican
+ocd-person/e62576aa-1bf5-5664-ad0f-b1fdbcdead56,Jack Reed,Democratic
+ocd-person/2f7f8ec5-f652-5c47-8dcb-06d7bc54557c,Jacky Rosen,Democratic
+ocd-person/1d87ca8c-1a95-531f-bbdd-34e1679d45d2,Jahana Hayes,Democratic
+ocd-person/a68063b7-2ce8-5638-a836-4fa7b22b3432,Jake Auchincloss,Democratic
+ocd-person/7add5a36-095e-5209-b94f-71b436555100,Jake Ellzey,Republican
+ocd-person/b4bfc55d-3cdd-5a6e-accf-912a2b2d28b8,Jake LaTurner,Republican
+ocd-person/e79a7ea4-9fcd-5c43-99b3-68bee77eb928,Jamaal Bowman,Democratic
+ocd-person/e1a8d4da-7cbd-571e-817d-774ff06bb342,James A. Himes,Democratic
+ocd-person/4f6d6ecb-8f69-5f40-9965-ac5fab1e3dba,James C. Moylan,Republican
+ocd-person/57b0c699-cef2-5740-bd15-4ad2562f8975,James Comer,Republican
+ocd-person/e24e02a4-f70c-5b9e-84e2-eda2d153f80f,James E. Clyburn,Democratic
+ocd-person/e8bb2501-1603-543f-9667-9089f781aa97,James E. Risch,Republican
+ocd-person/62a44404-9be2-5bbc-b672-0ed5f1aba53d,James Lankford,Republican
+ocd-person/d44223bc-5f00-56aa-be61-28b5a3b4429d,James P. McGovern,Democratic
+ocd-person/749232ec-b66c-5bd7-b828-10a466b95f0a,James R. Baird,Republican
+ocd-person/289b4cb5-a838-5b08-8f74-e06d4d251ae7,Jamie Raskin,Democratic
+ocd-person/c5e8693c-dca3-5ff7-b456-e71d944e4fb0,Janice D. Schakowsky,Democratic
+ocd-person/3c47a44a-29b8-5aa1-b61a-9e49ea0caf99,Jared F. Golden,Democratic
+ocd-person/c2b08e7d-2372-5af6-b333-7ea2787cb3ca,Jared Huffman,Democratic
+ocd-person/356c2159-c402-51d8-b4eb-697aaff46dc2,Jared Moskowitz,Democratic
+ocd-person/fafd6715-85a1-509b-98d1-6df68904f028,Jasmine Crockett,Democratic
+ocd-person/fb2f7d0c-f39b-50a6-8bdc-8bdc181683bc,Jason Crow,Democratic
+ocd-person/559a5a0c-4b35-56f0-aa59-76c98e6cfb45,Jason Smith,Republican
+ocd-person/d78f994b-01dc-5dfb-a08f-fc2ca2cef7ec,Jay Obernolte,Republican
+ocd-person/6d497134-2c53-5987-add8-6fffeaa96cda,Jeanne Shaheen,Democratic
+ocd-person/5c67147e-00d5-5430-b1c1-59a6da4269d6,Jeff Duncan,Republican
+ocd-person/4f9693d4-e175-536f-bd51-e884f84b9a6d,Jeff Jackson,Democratic
+ocd-person/96291b83-ea59-594a-97cf-630189e0b8ed,Jeff Merkley,Democratic
+ocd-person/a7706596-7110-5866-935b-b44668b92af1,Jefferson Van Drew,Republican
+ocd-person/130d2a3b-6ca1-560e-b0cd-a7c08366cff3,Jennifer Kiggans,Republican
+ocd-person/6d89e5cc-c605-55ff-ba4d-b3d58d6ac1af,Jennifer L. McClellan,Democratic
+ocd-person/660e8554-8d00-501a-bd27-e65689d39837,Jennifer Wexton,Democratic
+ocd-person/3f563cbe-7057-5771-b8d0-6e2e063da96f,Jenniffer González-Colón,Republican
+ocd-person/d6cd4f62-7c5f-5595-ac5e-4e40741e5f3b,Jerrold Nadler,Democratic
+ocd-person/6813a4c1-4353-5517-9314-5d36ecebabfd,Jerry L. Carl,Republican
+ocd-person/00c39487-8eec-5494-af5e-96e9b025a39b,Jerry Moran,Republican
+ocd-person/f89c416f-c08d-5251-9a31-201a5265e283,"Jesús G. ""Chuy"" García",Democratic
+ocd-person/8bd432ce-3c98-5811-afd6-65f19c5ab6ba,Jill N. Tokuda,Democratic
+ocd-person/befb976c-1369-5d86-a53f-4aeebdf486cc,Jim Banks,Republican
+ocd-person/8d953afe-9b42-5c80-9f43-4ccf8af79513,Jim Costa,Democratic
+ocd-person/bc5dadc9-a085-507e-82e1-1622d9a1fc90,Jim Jordan,Republican
+ocd-person/20be777c-8a2b-54c6-9b54-df88ff19b8ae,Jimmy Gomez,Democratic
+ocd-person/946e688a-6b60-567e-bea7-893eb4364acc,Jimmy Panetta,Democratic
+ocd-person/d0fe7bc7-b883-5485-814f-f7cee999e409,Joaquin Castro,Democratic
+ocd-person/4938e6be-7c14-536d-a559-91c74fcc17db,Jodey C. Arrington,Republican
+ocd-person/b34622c6-66c7-5f9a-822f-55e3f9ac3c73,Joe Courtney,Democratic
+ocd-person/3da2fb45-0c89-544c-b41d-888d623cf99c,"Joe Manchin, III",Independent
+ocd-person/04243e35-118c-5541-a21e-763c594a083a,Joe Neguse,Democratic
+ocd-person/af50abf4-b711-5bbc-a920-465e39c99f42,Joe Wilson,Republican
+ocd-person/4d2b82fc-189e-5007-980f-64a85612afdb,John B. Larson,Democratic
+ocd-person/80f88c07-5f6d-5ca3-8121-9202259a50f2,John Barrasso,Republican
+ocd-person/b352dd8b-dd06-57b0-833a-2b0b3bd33ad6,John Boozman,Republican
+ocd-person/d274933a-e19d-5d3b-ab91-dc6611aaadd1,John Cornyn,Republican
+ocd-person/6f500f52-75ce-5cf0-afc6-5be71f0921d2,John Fetterman,Democratic
+ocd-person/d4381c32-b267-5e35-b118-c0da3a0a80a1,John Garamendi,Democratic
+ocd-person/5ab7829c-a819-5616-ac0e-a0aaa359f493,John H. Rutherford,Republican
+ocd-person/18c027d3-52ca-5a48-a4d2-73167e382096,John Hoeven,Republican
+ocd-person/f32918a9-b738-5f20-8c3e-f95c7fda80cb,John James,Republican
+ocd-person/50b75c29-4e98-5622-b60f-59485dcc1141,John Joyce,Republican
+ocd-person/7a996578-ee76-59c8-856c-4f63861a62da,John Kennedy,Republican
+ocd-person/a1232c4d-25eb-555a-85a3-b2e168a086c1,John P. Sarbanes,Democratic
+ocd-person/7b014168-dc13-5568-96df-8c7cbb335268,John R. Carter,Republican
+ocd-person/7cc5139d-8e53-560c-9828-926395e1552d,John R. Curtis,Republican
+ocd-person/cb38b814-2794-505a-9232-f1bd56ca3ca0,John R. Moolenaar,Republican
+ocd-person/b8e3fe12-d102-5c54-a4d2-be9d6a3f73f9,John S. Duarte,Republican
+ocd-person/342214ae-2e66-50a4-9a10-acc467bd5d98,John Thune,Republican
+ocd-person/e4ea61a6-63ea-53e6-b61e-4c735a0b7818,John W. Hickenlooper,Democratic
+ocd-person/a30feb1f-c9fe-5612-808e-8fe5a55b76dc,John W. Rose,Republican
+ocd-person/4e48da38-17ab-5580-bced-2ea00b9b2843,Jon Ossoff,Democratic
+ocd-person/9f388589-39f3-5470-af3d-d74720d56afc,Jon Tester,Democratic
+ocd-person/f862c305-dfc3-5525-a488-8b57d58fad50,Jonathan L. Jackson,Democratic
+ocd-person/86133add-b3ff-52c2-a71e-442b9afeff6b,Joni Ernst,Republican
+ocd-person/70681900-af7f-5ee5-b826-7ab8c4194a9e,Joseph D. Morelle,Democratic
+ocd-person/68651247-63fc-5dad-8071-4efef949f7fd,Josh Brecheen,Republican
+ocd-person/8ce4e2db-be5a-5493-a399-b2e6061301ba,Josh Gottheimer,Democratic
+ocd-person/3ed77541-5a79-56b1-94d9-79baa74e938b,Josh Harder,Democratic
+ocd-person/0a7d370e-88bd-5b83-9b93-c8607c036d7a,Josh Hawley,Republican
+ocd-person/47fb8c8b-1c71-5c66-9781-94be94803332,Joyce Beatty,Democratic
+ocd-person/435b9cf1-2f02-5ec2-a54e-a42ef044db07,Juan Ciscomani,Republican
+ocd-person/904bef1f-7ef4-51af-aeef-b0ac8e1fbe06,Juan Vargas,Democratic
+ocd-person/a06fc4e8-2e1e-52b6-9aef-83d9405fe16b,Judy Chu,Democratic
+ocd-person/84e51316-26ee-55c7-88e8-ae3bd2b7b3cc,Julia Brownley,Democratic
+ocd-person/2a914bb0-5ddc-52d0-abb0-f0cd7830fc5f,Julia Letlow,Republican
+ocd-person/0963048e-e973-5563-a888-497a3bd4a492,Kat Cammack,Republican
+ocd-person/c882e018-77a3-529f-83ca-151e98d04264,Katherine M. Clark,Democratic
+ocd-person/4e9be052-7054-5a13-84af-4e5176dbac41,Kathy Castor,Democratic
+ocd-person/1c6b4ab9-cf1b-5dc1-a537-b991aff8fe5b,Kathy E. Manning,Democratic
+ocd-person/7bf077d8-e8b9-503e-b9c2-d18b55951e93,Katie Boyd Britt,Republican
+ocd-person/8582a25f-087e-5d46-8c12-7dd2e5cf5417,Katie Porter,Democratic
+ocd-person/32f7cd03-4f8d-5354-b6d1-114bdd4f9af1,Kay Granger,Republican
+ocd-person/404f8ca3-d216-5c95-b5aa-17176b25aa16,Keith Self,Republican
+ocd-person/ea4b65ca-7dbf-575b-abdb-1ac17d6ebb13,Kelly Armstrong,Republican
+ocd-person/3ca12a7a-5192-58bf-ba92-c219af17d74c,Ken Calvert,Republican
+ocd-person/b18c868c-a789-5a02-8070-c0c473d55304,Kevin Cramer,Republican
+ocd-person/139e15e1-4a50-5126-ad7a-b462c44f00e0,Kevin Hern,Republican
+ocd-person/4aee9639-900f-5593-aab0-b55bb3e8da51,Kevin Kiley,Republican
+ocd-person/c0400bec-65fe-5112-bf85-3a185ed0b601,Kevin Mullin,Democratic
+ocd-person/eb152f16-def8-5b51-9379-e7e463628ad6,Kim Schrier,Democratic
+ocd-person/d3f90fd1-5f64-5d18-a658-bdd021b89f46,Kirsten E. Gillibrand,Democratic
+ocd-person/79575558-ef44-5bb5-9c64-3d3fe3fb4427,Kweisi Mfume,Democratic
+ocd-person/37a72ecf-c1ae-5c91-b4ee-d72f4e9e8894,Kyrsten Sinema,Independent
+ocd-person/8d52be7e-dba0-5b01-bb9a-c0cfb72fa609,Lance Gooden,Republican
+ocd-person/0490575c-d32c-56f5-9d82-c0511ebe4fb8,Laphonza R. Butler,Democratic
+ocd-person/9b31b2fc-8303-5ad0-85d3-1051a49aedb2,Larry Bucshon,Republican
+ocd-person/96350e36-02c1-512a-8b83-fdd0dd93be88,Laurel M. Lee,Republican
+ocd-person/bbaa33e5-6ab2-5fba-bb46-35e44f89e553,Lauren Boebert,Republican
+ocd-person/9415f4f1-c2b8-5543-b695-d8cace3373f2,Lauren Underwood,Democratic
+ocd-person/b01048a9-27a5-5fed-b5ef-7bf3b3be6d04,Linda T. Sánchez,Democratic
+ocd-person/111e4df8-6815-5549-9833-57120f302f81,Lindsey Graham,Republican
+ocd-person/0b32bee9-863e-522f-99b8-9ad8e5d8f42e,Lisa Blunt Rochester,Democratic
+ocd-person/f8a1c19c-3aa4-5c20-a8a4-211a40b2c540,Lisa C. McClain,Republican
+ocd-person/cd76253c-a786-586d-aaac-bd14db985c3b,Lisa Murkowski,Republican
+ocd-person/b2b37c5e-17c0-5833-b5e0-fe4f93834761,Lizzie Fletcher,Democratic
+ocd-person/09fc76c2-eb6b-52c2-bc3d-de183e362df0,Lloyd Doggett,Democratic
+ocd-person/0f2326f2-b5dc-5428-bcaa-9a1078d0750c,Lloyd Smucker,Republican
+ocd-person/6dca533f-6c45-5308-9d6c-b579d4baf301,Lois Frankel,Democratic
+ocd-person/dba5c00d-d539-5816-8781-e63f28d8b3e2,Lori Chavez-DeRemer,Republican
+ocd-person/f8d561c8-c0f2-5251-9d52-53289b82c7d9,Lori Trahan,Democratic
+ocd-person/b5d26a8a-2954-574c-abf8-1c232e928c9c,Lucy McBath,Democratic
+ocd-person/1daf07ea-2575-511e-a5a8-47f0662cf209,Madeleine Dean,Democratic
+ocd-person/fe3cbb3c-90cd-5661-8f02-2e7da15459b8,Marc A. Veasey,Democratic
+ocd-person/014b069e-c444-50fe-99ef-bf72ae5aecd5,Marco Rubio,Republican
+ocd-person/5cc850f2-c4fa-5844-ab4c-bb44a07159ac,Marcus J. Molinaro,Republican
+ocd-person/b6f3dafd-0c6e-5694-ac20-59a88e891f62,Marcy Kaptur,Democratic
+ocd-person/c59c2d02-3a1e-55a7-b1eb-638a902899d5,Margaret Wood Hassan,Democratic
+ocd-person/46c3b77a-7d00-5ecc-83d0-04c8fa05bf04,Maria Cantwell,Democratic
+ocd-person/23524e03-1206-50cb-844d-ddea47f258da,Maria Elvira Salazar,Republican
+ocd-person/fc8623ea-be1e-518f-aa76-3598910fa676,Mariannette Miller-Meeks,Republican
+ocd-person/3d465b8f-2f67-5283-8cab-da3990ec8c49,Marie Gluesenkamp Perez,Democratic
+ocd-person/f0914f67-02b0-5f3c-8f03-949f79c30f62,Marilyn Strickland,Democratic
+ocd-person/7e5729d1-198d-5389-be51-d1e05969729c,Mario Diaz-Balart,Republican
+ocd-person/8c511e48-a002-5f1c-a4b9-1cd18b7f7a6e,Marjorie Taylor Greene,Republican
+ocd-person/baf62641-318a-58be-bb76-f7c6aeb97684,Mark Alford,Republican
+ocd-person/a1d66d4f-5f94-5605-9e25-96c8f5b4e2df,Mark DeSaulnier,Democratic
+ocd-person/e58ac762-d546-52f3-8efd-8a2c8f12f731,Mark E. Amodei,Republican
+ocd-person/92fdf72b-20aa-5d08-83b8-833c4714b0ac,Mark E. Green,Republican
+ocd-person/30665d55-5695-5ede-930d-c92e63e4ee65,Mark Kelly,Democratic
+ocd-person/50093b91-c03b-5dbf-acb8-e5881dd576e4,Mark Pocan,Democratic
+ocd-person/0149412b-3e52-5743-bf11-a11ef4a98856,Mark R. Warner,Democratic
+ocd-person/d01bffb6-a515-5ca5-8203-3a9b8d5da15e,Mark Takano,Democratic
+ocd-person/c1fcdb86-e58e-59ed-94f2-40e481824423,Markwayne Mullin,Republican
+ocd-person/fad2ab8c-d191-5eb8-9bd8-5bbc44a35f0d,Marsha Blackburn,Republican
+ocd-person/fb46b038-d2a8-5824-bb36-deb07f8d9f54,Martin Heinrich,Democratic
+ocd-person/b98a30a0-ae7f-5910-9883-3132a7164446,Mary E. Miller,Republican
+ocd-person/4dc45e4a-78e1-545f-94c1-10c1d9a12f15,Mary Gay Scanlon,Democratic
+ocd-person/be59b2eb-82fa-5b34-af53-30a9aa8b1123,Mary Sattler Peltola,Democratic
+ocd-person/1f22bb4c-3315-53ae-848a-e30bb8fec18e,Matt Cartwright,Democratic
+ocd-person/89e031c0-3988-5b08-b7a3-7d4e63eb0579,Matt Gaetz,Republican
+ocd-person/5b030c5d-0d50-5452-b2f8-95f8659056fb,"Matthew M. Rosendale, Sr.",Republican
+ocd-person/a26ef77d-1f50-5c77-918d-83f917ac83fb,Max L. Miller,Republican
+ocd-person/fc7a4a9e-9274-546f-ae5c-bcf46f3fe0f2,Maxine Waters,Democratic
+ocd-person/f0bef4bc-bb68-55ca-afb8-9104567b2f17,Maxwell Frost,Democratic
+ocd-person/ee89a520-227a-575d-8379-5d36b6e6b2a2,Mazie K. Hirono,Democratic
+ocd-person/e3c837d0-9b42-53c9-a131-896bb28aa319,Melanie A. Stansbury,Democratic
+ocd-person/91ba3b6a-a4c8-54ab-8964-8498641a6d8f,Michael A. Rulli,Republican
+ocd-person/e40d8398-4cca-57bb-a8cc-8376230801d4,Michael C. Burgess,Republican
+ocd-person/da5e831e-227c-58a1-bf1a-86782158fb57,Michael Cloud,Republican
+ocd-person/16a0a125-6ebe-58b3-810f-df10c0e7df1f,Michael F. Bennet,Democratic
+ocd-person/6b015607-c3dd-5867-a1bb-733bf84fe091,Michael Guest,Republican
+ocd-person/ba023811-213b-5bb1-a0dc-11a9458364f1,Michael K. Simpson,Republican
+ocd-person/029be488-4aad-5a5f-95f1-7ab1aaf27c29,Michael Lawler,Republican
+ocd-person/bac6c65d-846b-5e60-9532-fa216c99ccf6,Michael R. Turner,Republican
+ocd-person/15d37180-ddd2-5bb6-8dd4-cdd2690eca86,Michael T. McCaul,Republican
+ocd-person/f335088b-3b7b-5009-9dd9-f389ffe59cdb,Michael Waltz,Republican
+ocd-person/66724fb4-e553-59cb-b8ba-314e3bf9f1ea,Michelle Fischbach,Republican
+ocd-person/b95a5cd3-53ca-5f03-8b14-703add32cf84,Michelle Steel,Republican
+ocd-person/f49d7d57-812e-584d-85f7-0c3b547bfca4,Mike Bost,Republican
+ocd-person/c3e17251-9796-592a-a8ed-8dea288dadf7,Mike Braun,Republican
+ocd-person/e2402add-94f2-53fa-9f40-69ba590c744f,Mike Carey,Republican
+ocd-person/0f7a88d1-4e4c-565a-b905-706181d7b561,Mike Collins,Republican
+ocd-person/9243a3a9-4e91-5fc8-9643-ae46455b688b,Mike Crapo,Republican
+ocd-person/fef4e629-aa7e-5bc5-9128-abfce1af96d5,Mike Ezell,Republican
+ocd-person/51e14e3d-a2c7-5d16-81d5-6608049b5d7e,Mike Flood,Republican
+ocd-person/0f9b050b-b8cf-56d9-bc31-edfcdd3c2fe5,Mike Gallagher,Republican
+ocd-person/db31d257-8b81-52c8-a2e1-d26c6ee4a8be,Mike Garcia,Republican
+ocd-person/ef2a1e73-edb7-5f53-9f61-da2020fc417d,Mike Johnson,Republican
+ocd-person/72511635-46e3-536d-8880-b32c7cf3e470,Mike Kelly,Republican
+ocd-person/461257ff-088f-5edd-b342-4652ce1c111f,Mike Lee,Republican
+ocd-person/ac0c3c4b-14c8-5bc1-bb8b-001af291ee3d,Mike Levin,Democratic
+ocd-person/b8578429-a84d-5542-a903-02feaee3a7d4,Mike Quigley,Democratic
+ocd-person/612162b9-752c-50f4-b2e5-de10dae5c160,Mike Rogers,Republican
+ocd-person/bfd392c5-2d61-56fa-94c6-ea12aaee7ea6,Mike Rounds,Republican
+ocd-person/237700e9-fd25-5daa-a301-2fde714f5923,Mike Thompson,Democratic
+ocd-person/bbe70084-5f54-5897-8518-a9467558a4b1,Mikie Sherrill,Democratic
+ocd-person/200bd7b3-ce8e-5541-a649-b53e30862567,Mitch McConnell,Republican
+ocd-person/2279327b-86e8-5baf-ad04-7b3e20f3da0c,Mitt Romney,Republican
+ocd-person/c03dd126-0872-5937-9967-68aedb1ab964,Monica De La Cruz,Republican
+ocd-person/868d6300-e9e7-5df4-bfe1-2e7fd1a632ac,Morgan Luttrell,Republican
+ocd-person/d9c43ab0-97c8-565b-80cf-9da35c1ccbee,Morgan McGarvey,Democratic
+ocd-person/c50627f5-6447-55e3-9ca9-183daf188b58,Nancy Mace,Republican
+ocd-person/8056c810-7170-5009-88c3-a670ab30164b,Nancy Pelosi,Democratic
+ocd-person/5ec7a759-2c3a-5270-8328-13c7ac611580,Nanette Diaz Barragán,Democratic
+ocd-person/0c6bf250-87f0-5c8b-8c0f-31366a703a37,Nathaniel Moran,Republican
+ocd-person/cebc95c4-7c20-58c5-829c-c3391f0761fa,Neal P. Dunn,Republican
+ocd-person/a4321566-0258-5d46-bc51-c1f77ba95ba0,Nicholas A. Langworthy,Republican
+ocd-person/30fe5d74-0224-5d11-92d2-5766471e6cc5,Nick LaLota,Republican
+ocd-person/d47735a4-c407-5389-bfd2-f638ffccdd06,Nicole Malliotakis,Republican
+ocd-person/132a1bba-204a-5d4f-a406-40b4342bad1b,Nikema Williams,Democratic
+ocd-person/f2c67d83-e6fb-5fa9-aa38-663e9f62e81b,Nikki Budzinski,Democratic
+ocd-person/32caaab6-5712-57c2-83c6-7b226b2c1056,Norma J. Torres,Democratic
+ocd-person/bc18d350-32b2-5e37-8b43-6f85ae9b5b09,Nydia M. Velázquez,Democratic
+ocd-person/425d847d-6fbf-55a7-a117-76bca5e3f299,Pat Fallon,Republican
+ocd-person/10de7024-4b40-57b0-ae78-101372fd4a02,Patrick Ryan,Democratic
+ocd-person/3ae689a1-81a2-5c40-b26e-ee49648945d6,Patrick T. McHenry,Republican
+ocd-person/eb3ab543-13a1-53db-a8a1-459e8e91b701,Patty Murray,Democratic
+ocd-person/5eae38e3-8420-5c09-831a-db73d9cba978,Paul A. Gosar,Republican
+ocd-person/19360ce3-5ad4-5b67-b253-0239a5360fbb,Paul Tonko,Democratic
+ocd-person/705749f4-c12c-5090-88fa-012d36611500,Pete Aguilar,Democratic
+ocd-person/e1b9405a-e695-5bc5-b3b0-6cdc1415f53c,Pete Ricketts,Republican
+ocd-person/4325bd84-1297-5481-a6b7-80534123c81f,Pete Sessions,Republican
+ocd-person/54c25fbc-b91d-5d2b-8403-9b8fb1fb6792,Pete Stauber,Republican
+ocd-person/8addb5a8-a569-54b2-811b-b5d091350411,Peter Welch,Democratic
+ocd-person/7849cc06-924b-5f36-a446-1f97d9fbdc63,Pramila Jayapal,Democratic
+ocd-person/b13e8680-abc9-51dc-a6b6-bed78927bfff,Raja Krishnamoorthi,Democratic
+ocd-person/06cee575-8fbe-5552-9f2b-9fe5aa2a3725,Raúl M. Grijalva,Democratic
+ocd-person/9b2b75b5-2641-51be-91c3-9d14d40e4d1a,Ralph Norman,Republican
+ocd-person/7a1c13f9-1aac-5461-aa2a-11642749828d,Rand Paul,Republican
+ocd-person/31a92a8a-f498-5ca5-a37b-fd92b162c913,Randy Feenstra,Republican
+ocd-person/4662eadc-a9a7-500c-b9c2-521a013d3729,"Randy K. Weber, Sr.",Republican
+ocd-person/37f5a4b9-98b2-5c3d-857b-6e02f5123345,Raphael G. Warnock,Democratic
+ocd-person/e7497932-512f-5b6f-8830-aa4b6737cd2e,Rashida Tlaib,Democratic
+ocd-person/4db06595-7db2-51a8-8574-703e9af111b9,Raul Ruiz,Democratic
+ocd-person/62fd9e8b-80ea-5484-b1f1-3f3b4c350cc3,Richard Blumenthal,Democratic
+ocd-person/882d0f96-61bb-57b0-9683-c72425d337e9,Richard E. Neal,Democratic
+ocd-person/18943ddd-9052-5b22-905b-65ff2ac3abf7,Richard Hudson,Republican
+ocd-person/7d0c4665-2bcf-5e53-b450-25461cd13d85,Richard J. Durbin,Democratic
+ocd-person/3056cc98-9ca1-5293-8064-fc12fd9c689f,Richard McCormick,Republican
+ocd-person/9f1d5b03-66ab-5d94-9b92-aed4e8168c4d,Rick Larsen,Democratic
+ocd-person/3a57e816-1e10-58b5-8394-0272542ca567,Rick Scott,Republican
+ocd-person/4cdf55a7-a62e-5b3d-a07f-305f4e9dc5c1,Rick W. Allen,Republican
+ocd-person/3a4aef6c-28c5-5cb7-a664-0e8c9d0c4fd2,Ritchie Torres,Democratic
+ocd-person/1256e24c-ef63-5a90-9cf6-1da0dcd63ce8,Ro Khanna,Democratic
+ocd-person/1a69c825-1015-5d72-a8d8-a720d586c3b4,Robert B. Aderholt,Republican
+ocd-person/b20b2d62-fa4a-5014-baac-2f86e1c691eb,"Robert C. ""Bobby"" Scott",Democratic
+ocd-person/2158a719-5cfa-5c41-92f7-4f0853782d2b,Robert E. Latta,Republican
+ocd-person/48a4fe68-6141-50ff-8d0b-0693119fd250,Robert Garcia,Democratic
+ocd-person/0adba0f5-0723-584b-8071-3e442a01f2d2,Robert J. Wittman,Republican
+ocd-person/a516a327-22fc-57af-931b-f28926b44b85,Robert Menendez,Democratic
+ocd-person/18aff1ad-b362-53c8-bc7c-59cda8993c62,"Robert P. Casey, Jr.",Democratic
+ocd-person/ced9bf2d-1308-5316-94c0-c1410716021a,Robin L. Kelly,Democratic
+ocd-person/8fe2b037-b8ff-5161-9bb4-196e9f1d9dca,Roger F. Wicker,Republican
+ocd-person/09a67947-f66a-55ac-b4ba-5c656ad7f67d,Roger Marshall,Republican
+ocd-person/e77e9595-b0fb-5923-a051-9f3221d8d6a9,Roger Williams,Republican
+ocd-person/09eb0ce6-8616-5896-b1d2-d90f494eb4d9,Ron Estes,Republican
+ocd-person/67d8f8b5-1fad-5132-9da8-3210783163a8,Ron Johnson,Republican
+ocd-person/7b0a82d1-eb2f-53a3-8352-de8b64d41060,Ron Wyden,Democratic
+ocd-person/417128fd-ee37-5676-988d-263b908aa027,Ronny Jackson,Republican
+ocd-person/30e732cb-6e0a-5920-bd7e-8d62ca9b2f7c,Rosa L. DeLauro,Democratic
+ocd-person/256da84c-1b8a-5d48-99ba-9c9f7dd2d310,Ruben Gallego,Democratic
+ocd-person/bf37099b-56fe-54fe-acc1-a6d79a0107d1,Rudy Yakym III,Republican
+ocd-person/59f2dee7-1c9f-588e-a8ca-158e054f7fca,Russ Fulcher,Republican
+ocd-person/3036516e-5f78-5d6a-9160-989a3f6cd149,Russell Fry,Republican
+ocd-person/23aee4a1-f0aa-5803-9678-aebad9194f19,Ryan K. Zinke,Republican
+ocd-person/a106e70c-7857-5d7c-8252-5f4768818ef2,Salud O. Carbajal,Democratic
+ocd-person/82ed7662-b9c2-53f7-bab6-c2d59732128b,Sam Graves,Republican
+ocd-person/bbc6615a-22ca-51f6-b674-8c7753e93333,"Sanford D. Bishop, Jr.",Democratic
+ocd-person/7c181af1-a048-53f0-a16c-833ffd27aef4,Sara Jacobs,Democratic
+ocd-person/e34e7060-b2be-56c9-a20f-42de3d875b88,Scott DesJarlais,Republican
+ocd-person/ad74f627-3223-5505-811c-599046becb2e,Scott Fitzgerald,Republican
+ocd-person/04fde057-6aef-56ae-9baa-b1450d74ab09,Scott Franklin,Republican
+ocd-person/379b2f6a-82e3-572b-a471-75020486662e,Scott H. Peters,Democratic
+ocd-person/2ac15c4d-4052-5a49-9b5c-70b93a4e325e,Scott Perry,Republican
+ocd-person/89f8b007-1bf3-589a-bffe-92acf526f448,Sean Casten,Democratic
+ocd-person/2b7e8cfa-f37a-5155-ac79-e769b3cf71da,Seth Magaziner,Democratic
+ocd-person/7cdb552c-a069-5bae-8c32-c42a2f6c04f6,Seth Moulton,Democratic
+ocd-person/70056f40-1938-557d-be5d-ddb841c9f19a,Sharice Davids,Democratic
+ocd-person/89e894b3-e6a6-5c7c-bc77-dd60cc826b0d,Sheila Cherfilus-McCormick,Democratic
+ocd-person/99710435-8a59-5f14-9acd-da267980551c,Sheila Jackson Lee,Democratic
+ocd-person/fd0623ac-bbc8-5c5e-839f-37148d89c36e,Sheldon Whitehouse,Democratic
+ocd-person/793e5b46-2682-51ff-bfca-adf217ca9a65,Shelley Moore Capito,Republican
+ocd-person/b84b6427-85e2-5d0c-b9e8-a44270378405,Sherrod Brown,Democratic
+ocd-person/f2916088-1774-50ba-8023-34f7fe686e49,Shontel M. Brown,Democratic
+ocd-person/cca4b382-1b0b-5872-86a8-abe74e9f6e3a,Shri Thanedar,Democratic
+ocd-person/8b830e4d-1e2b-5b7b-9f71-6152222a342f,Stacey E. Plaskett,Democratic
+ocd-person/5554fdf4-9035-5d23-aeb0-fee7d786fa81,Steny H. Hoyer,Democratic
+ocd-person/2add0122-3206-5502-985b-18808db8f685,Stephanie I. Bice,Republican
+ocd-person/cc7120d8-f57d-5841-9526-3429e9f0f2c2,Stephen F. Lynch,Democratic
+ocd-person/e56dabed-c7b4-51c2-a29b-c9850bc9feff,Steve Cohen,Democratic
+ocd-person/75cfdbf0-b681-5535-8a97-b53310335e72,Steve Daines,Republican
+ocd-person/b86826b1-800d-5976-98fa-617ccb74ce88,Steve Scalise,Republican
+ocd-person/b3fc0e27-b0a3-5106-ae4f-65d6cc93c031,Steve Womack,Republican
+ocd-person/980a78cc-847f-50be-8967-6c8895ad337e,Steven Horsford,Democratic
+ocd-person/e2bd9b69-7425-5f80-b432-41b690306379,Summer L. Lee,Democratic
+ocd-person/a6f624bf-9a40-53ad-a0da-92f115d619aa,Susan M. Collins,Republican
+ocd-person/b5356530-dd09-5b14-98f2-365d70bf4e5c,Susan Wild,Democratic
+ocd-person/4333db3d-a55e-5d8e-b2ec-1041414ba2e6,Susie Lee,Democratic
+ocd-person/799d9723-1f90-5558-b8c6-6f293c7eaddd,Suzan K. DelBene,Democratic
+ocd-person/90d40f72-ffae-544d-86bb-b41605730fee,Suzanne Bonamici,Democratic
+ocd-person/1608d897-8cf1-5902-9e45-fbd0bbd72cca,Sydney Kamlager-Dove,Democratic
+ocd-person/168e0e9e-0d4c-57d2-99a6-8fc99be594be,Sylvia R. Garcia,Democratic
+ocd-person/d7c97bc3-b7cb-585b-b9e3-def97fcb9db6,Tammy Baldwin,Democratic
+ocd-person/c02182c1-3275-5f3e-9c66-2f0873cc72c7,Tammy Duckworth,Democratic
+ocd-person/67c3f0bb-7182-51b8-98d0-253144992bfe,Ted Budd,Republican
+ocd-person/c4d35f64-f25b-5888-9fcb-f3cb97df500e,Ted Cruz,Republican
+ocd-person/b472f29c-b960-5cea-b5fb-0e9d4d6d10a4,Ted Lieu,Democratic
+ocd-person/1548bb05-ef78-5582-9058-fd92d3c9c61c,Teresa Leger Fernandez,Democratic
+ocd-person/f747c3f1-7247-5c91-9870-901ec617e884,Terri A. Sewell,Democratic
+ocd-person/3ad2df38-e817-50b9-924d-9dbd4bba94a8,Thom Tillis,Republican
+ocd-person/1cbf8801-61cd-5f46-93c1-0d02f110035a,"Thomas H. Kean, Jr.",Republican
+ocd-person/7d1234be-d22a-5374-8022-59a795f0f3f4,Thomas Massie,Republican
+ocd-person/5048bd11-acf0-5775-a75f-5f085fc8bc11,Thomas P. Tiffany,Republican
+ocd-person/762f36c5-6766-5708-9066-d1d6340500d3,Thomas R. Carper,Democratic
+ocd-person/4182b897-5c2e-5dff-a87c-aa7911e81a3d,Thomas R. Suozzi,Democratic
+ocd-person/06b83e26-fe35-526d-86fb-7a6d80b20d1a,Tim Burchett,Republican
+ocd-person/4d537f5f-04fd-578a-a8d2-61dd4972e758,Tim Kaine,Democratic
+ocd-person/3bb4a99e-9448-5b35-86cd-114bd035535e,Tim Scott,Republican
+ocd-person/9e622be4-95d2-5bf7-a99f-543d45400e82,Tim Walberg,Republican
+ocd-person/7d860788-e85f-5f23-a7dc-133364f9d4e9,Timothy M. Kennedy,Democratic
+ocd-person/f82067c3-a257-54ae-b6bd-ebe5178372e7,Tina Smith,Democratic
+ocd-person/7ec39cbb-df0e-5970-aba1-5722964f55bb,Todd Young,Republican
+ocd-person/34706e89-9ed8-5078-b825-f310caf5a8f6,Tom Cole,Republican
+ocd-person/a0c9885f-b9f8-5045-9e74-044a886b9a6e,Tom Cotton,Republican
+ocd-person/08e42c4f-2c5e-5fe0-87cf-0e8de2bdb52d,Tom Emmer,Republican
+ocd-person/173a4f3f-e38f-569e-97b2-e0424195f16c,Tom McClintock,Republican
+ocd-person/0ee1b661-2035-5dc1-ab1c-b87d25682775,Tommy Tuberville,Republican
+ocd-person/147fa8d0-050e-585a-b299-b82e84db0845,Tony Cárdenas,Democratic
+ocd-person/7e086fc4-85ff-58af-a436-5f6fa7bfa527,Tony Gonzales,Republican
+ocd-person/675e8a3b-ea68-55f8-aeb8-be287fe621bd,Tracey Mann,Republican
+ocd-person/c495bde9-29b3-5e71-ab0e-dedff0de9a84,Trent Kelly,Republican
+ocd-person/5e3dc0b5-2afe-5b83-ab42-9352225b2235,Troy A. Carter,Democratic
+ocd-person/7ba189b5-1c2a-5acd-8118-446326a8e02b,Troy Balderson,Republican
+ocd-person/ec5c60e6-2666-535c-a95a-ec6ab9e02e3f,Troy E. Nehls,Republican
+ocd-person/8d143b3d-646a-5199-95f5-497e17f386dd,Val T. Hoyle,Democratic
+ocd-person/2b138e95-2a83-5c51-a3f4-397017c9210e,Valerie P. Foushee,Democratic
+ocd-person/1e646f7b-600b-503f-9524-3ae95d00cd2d,Vern Buchanan,Republican
+ocd-person/a656d2f5-2e90-535c-91d9-d27ad1150c03,Veronica Escobar,Democratic
+ocd-person/8b1ad439-078b-5e79-a845-64236b87f11f,Vicente Gonzalez,Democratic
+ocd-person/bdb81964-c3cc-5f48-8854-7b9c88c23755,Victoria Spartz,Republican
+ocd-person/2d6b7f7f-a241-5064-9812-9506beb2b76e,Vince Fong,Republican
+ocd-person/b77761e4-93cb-5fbb-972e-5d591198df8f,Virginia Foxx,Republican
+ocd-person/5fdae4c2-ba21-56a4-ae8c-5e95a175a90a,W. Gregory Steube,Republican
+ocd-person/1eaeee77-2e74-51b9-a70f-30e16378f080,Warren Davidson,Republican
+ocd-person/2cb7c1ce-a9a1-5644-bfb8-14508d2d5f87,Wesley Hunt,Republican
+ocd-person/9866e387-b0c1-5f4d-b5da-dbde28ac482a,Wiley Nickel,Democratic
+ocd-person/ec0f62a4-5b85-5df2-888a-200166766b17,William R. Keating,Democratic
+ocd-person/678a7e1c-3834-5536-937f-fdb30edca68e,William R. Timmons IV,Republican
+ocd-person/4e28b856-d0c9-53f7-8dbd-bb9c6b99f145,Yadira Caraveo,Democratic
+ocd-person/34a22a9d-abf9-5e79-91f5-e4e08be6d2c9,Young Kim,Republican
+ocd-person/969d3e67-5686-5b4c-a8fe-5ec702a7343d,Yvette D. Clarke,Democratic
+ocd-person/144ba1b8-981f-58d8-b85d-c38fca7d524c,Zachary Nunn,Republican
+ocd-person/80764021-2b87-5b48-8999-98943700dea8,Zoe Lofgren,Democratic
